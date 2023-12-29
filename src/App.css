@@ -1,0 +1,54 @@
+body {
+  background-color: #EEE2DE;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  letter-spacing: 2px;
+  font-size: 30px;
+  font-weight: 800;
+  color: #B31312;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #2B2A4C;
+}
+
+p {
+  color: #2B2A4C;
+  font-size: 20px;
+}
+
+button {
+  background: #EEE2DE;
+  font-size: 18px;
+  color: #B31312;
+}
+
+.btn {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid transparent;
+    font-weight: 700;
+    text-align: center;
+    color: #2B2A4C;
+    background-color: #EA906C;
+    align-self: center;
+    padding: 10px;
+    border-radius: 10px;
+    padding: 13px;
+  }
+
+  .btnMore {
+    border: none;
+    cursor: pointer;
+  }
+
