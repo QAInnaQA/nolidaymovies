@@ -70,7 +70,7 @@ function App() {
       </div>
 
       <div className="container">
-        <button className="btn" onClick={() => list([])}>REMOVE ALL</button>
+        <button className="btn" onClick={() => setList([])}>REMOVE ALL</button>
       </div>
 
     </div>
